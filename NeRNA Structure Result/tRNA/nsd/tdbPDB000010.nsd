@@ -1,0 +1,115 @@
+[
+  { Version:"1.0" Title:tdbPDB000010 }
+  {
+    Title:tdbPDB000010
+    Mode:Standard
+    Flip:false
+    Strands:[
+      {
+        Strand:[
+          { ID:1 Base:G X:312.0 Y:354.0 }
+          { ID:2 Base:G X:269.0 Y:322.0 }
+          { ID:3 Base:C X:271.0 Y:305.0 }
+          { ID:4 Base:C X:273.0 Y:288.0 }
+          { ID:5 Base:C X:275.0 Y:271.0 }
+          { ID:6 Base:G X:277.0 Y:254.0 }
+          { ID:7 Base:G X:279.0 Y:237.0 }
+          { ID:8 Base:A X:281.0 Y:220.0 }
+          { ID:9 Base:U X:310.0 Y:242.0 }
+          { ID:10 Base:A X:339.0 Y:264.0 }
+          { ID:11 Base:G X:369.0 Y:287.0 }
+          { ID:12 Base:C X:387.0 Y:288.0 }
+          { ID:13 Base:U X:405.0 Y:289.0 }
+          { ID:14 Base:C X:423.0 Y:290.0 }
+          { ID:15 Base:a X:436.0 Y:307.0 }
+          { ID:16 Base:g X:458.0 Y:316.0 }
+          { ID:17 Base:U X:481.0 Y:311.0 }
+          { ID:18 Base:C X:496.0 Y:294.0 }
+          { ID:19 Base:G X:498.0 Y:271.0 }
+          { ID:20 Base:G X:487.0 Y:250.0 }
+          { ID:21 Base:U X:465.0 Y:241.0 }
+          { ID:22 Base:A X:443.0 Y:246.0 }
+          { ID:23 Base:G X:426.0 Y:259.0 }
+          { ID:24 Base:A X:408.0 Y:258.0 }
+          { ID:25 Base:G X:390.0 Y:257.0 }
+          { ID:26 Base:C X:372.0 Y:256.0 }
+          { ID:27 Base:A X:331.0 Y:192.0 }
+          { ID:28 Base:U X:285.0 Y:168.0 }
+          { ID:29 Base:C X:289.0 Y:151.0 }
+          { ID:30 Base:A X:293.0 Y:134.0 }
+          { ID:31 Base:G X:297.0 Y:117.0 }
+          { ID:32 Base:A X:301.0 Y:100.0 }
+          { ID:33 Base:C X:318.0 Y:77.0 }
+          { ID:34 Base:U X:314.0 Y:48.0 }
+          { ID:35 Base:U X:322.0 Y:25.0 }
+          { ID:36 Base:U X:307.0 Y:8.0 }
+          { ID:37 Base:U X:287.0 Y:16.0 }
+          { ID:38 Base:A X:284.0 Y:41.0 }
+          { ID:39 Base:A X:266.0 Y:64.0 }
+          { ID:40 Base:U X:271.0 Y:93.0 }
+          { ID:41 Base:C X:267.0 Y:110.0 }
+          { ID:42 Base:U X:263.0 Y:127.0 }
+          { ID:43 Base:G X:259.0 Y:144.0 }
+          { ID:44 Base:A X:255.0 Y:161.0 }
+          { ID:45 Base:G X:230.0 Y:169.0 }
+          { ID:46 Base:G X:204.0 Y:180.0 }
+          { ID:47 Base:G X:181.0 Y:197.0 }
+          { ID:48 Base:U X:164.0 Y:219.0 }
+          { ID:49 Base:C X:153.0 Y:245.0 }
+          { ID:50 Base:C X:148.0 Y:273.0 }
+          { ID:51 Base:A X:130.0 Y:273.0 }
+          { ID:52 Base:G X:112.0 Y:273.0 }
+          { ID:53 Base:G X:94.0 Y:273.0 }
+          { ID:54 Base:G X:76.0 Y:273.0 }
+          { ID:55 Base:U X:60.0 Y:260.0 }
+          { ID:56 Base:U X:37.0 Y:255.0 }
+          { ID:57 Base:C X:17.0 Y:266.0 }
+          { ID:58 Base:A X:8.0 Y:288.0 }
+          { ID:59 Base:a X:16.0 Y:310.0 }
+          { ID:60 Base:G X:36.0 Y:322.0 }
+          { ID:61 Base:U X:59.0 Y:318.0 }
+          { ID:62 Base:C X:76.0 Y:304.0 }
+          { ID:63 Base:C X:94.0 Y:304.0 }
+          { ID:64 Base:C X:112.0 Y:304.0 }
+          { ID:65 Base:U X:130.0 Y:304.0 }
+          { ID:66 Base:G X:148.0 Y:304.0 }
+          { ID:67 Base:U X:250.0 Y:217.0 }
+          { ID:68 Base:U X:248.0 Y:234.0 }
+          { ID:69 Base:C X:246.0 Y:251.0 }
+          { ID:70 Base:G X:244.0 Y:268.0 }
+          { ID:71 Base:G X:242.0 Y:285.0 }
+          { ID:72 Base:G X:240.0 Y:302.0 }
+          { ID:73 Base:C X:238.0 Y:319.0 }
+          { ID:74 Base:G X:215.0 Y:346.0 }
+          { ID:75 Base:C X:205.0 Y:375.0 }
+          { ID:76 Base:C X:212.0 Y:404.0 }
+          { ID:77 Base:a X:232.0 Y:426.0 }
+        ]
+      }
+    ]
+    Pairs:[
+      { Pair:"2:73" Type:BP }
+      { Pair:"3:72" Type:BP }
+      { Pair:"4:71" Type:BP }
+      { Pair:"5:70" Type:BP }
+      { Pair:"6:69" Type:BP }
+      { Pair:"7:68" Type:BP }
+      { Pair:"8:67" Type:BP }
+      { Pair:"11:26" Type:BP }
+      { Pair:"12:25" Type:BP }
+      { Pair:"13:24" Type:BP }
+      { Pair:"14:23" Type:BP }
+      { Pair:"28:44" Type:BP }
+      { Pair:"29:43" Type:BP }
+      { Pair:"30:42" Type:BP }
+      { Pair:"31:41" Type:BP }
+      { Pair:"32:40" Type:BP }
+      { Pair:"34:38" Type:BP }
+      { Pair:"50:66" Type:BP }
+      { Pair:"51:65" Type:BP }
+      { Pair:"52:64" Type:BP }
+      { Pair:"53:63" Type:BP }
+      { Pair:"54:62" Type:BP }
+    ]
+  }
+]

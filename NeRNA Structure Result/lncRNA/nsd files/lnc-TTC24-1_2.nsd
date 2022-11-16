@@ -1,0 +1,295 @@
+[
+  { Version:"1.0" Title:"lnc-TTC24-1:2" }
+  {
+    Title:"lnc-TTC24-1:2"
+    Mode:Standard
+    Flip:false
+    Strands:[
+      {
+        Strand:[
+          { ID:1 Base:g X:279.0 Y:2038.0 }
+          { ID:2 Base:g X:285.0 Y:2054.0 }
+          { ID:3 Base:g X:291.0 Y:2070.0 }
+          { ID:4 Base:c X:284.0 Y:2110.0 }
+          { ID:5 Base:a X:315.0 Y:2137.0 }
+          { ID:6 Base:c X:321.0 Y:2154.0 }
+          { ID:7 Base:u X:327.0 Y:2171.0 }
+          { ID:8 Base:g X:333.0 Y:2188.0 }
+          { ID:9 Base:a X:325.0 Y:2208.0 }
+          { ID:10 Base:a X:329.0 Y:2231.0 }
+          { ID:11 Base:a X:347.0 Y:2246.0 }
+          { ID:12 Base:g X:370.0 Y:2246.0 }
+          { ID:13 Base:a X:388.0 Y:2231.0 }
+          { ID:14 Base:u X:392.0 Y:2209.0 }
+          { ID:15 Base:c X:381.0 Y:2188.0 }
+          { ID:16 Base:c X:362.0 Y:2178.0 }
+          { ID:17 Base:g X:356.0 Y:2161.0 }
+          { ID:18 Base:g X:350.0 Y:2144.0 }
+          { ID:19 Base:u X:344.0 Y:2127.0 }
+          { ID:20 Base:c X:353.0 Y:2104.0 }
+          { ID:21 Base:a X:341.0 Y:2070.0 }
+          { ID:22 Base:c X:320.0 Y:2060.0 }
+          { ID:23 Base:c X:314.0 Y:2044.0 }
+          { ID:24 Base:c X:308.0 Y:2028.0 }
+          { ID:25 Base:a X:376.0 Y:1937.0 }
+          { ID:26 Base:g X:383.0 Y:1866.0 }
+          { ID:27 Base:g X:358.0 Y:1798.0 }
+          { ID:28 Base:g X:306.0 Y:1749.0 }
+          { ID:29 Base:a X:239.0 Y:1727.0 }
+          { ID:30 Base:c X:240.0 Y:1709.0 }
+          { ID:31 Base:c X:241.0 Y:1691.0 }
+          { ID:32 Base:u X:242.0 Y:1673.0 }
+          { ID:33 Base:c X:243.0 Y:1655.0 }
+          { ID:34 Base:u X:244.0 Y:1637.0 }
+          { ID:35 Base:c X:262.0 Y:1628.0 }
+          { ID:36 Base:a X:284.0 Y:1601.0 }
+          { ID:37 Base:a X:286.0 Y:1567.0 }
+          { ID:38 Base:u X:267.0 Y:1538.0 }
+          { ID:39 Base:u X:250.0 Y:1527.0 }
+          { ID:40 Base:g X:262.0 Y:1501.0 }
+          { ID:41 Base:c X:251.0 Y:1473.0 }
+          { ID:42 Base:u X:251.0 Y:1455.0 }
+          { ID:43 Base:c X:251.0 Y:1437.0 }
+          { ID:44 Base:a X:267.0 Y:1425.0 }
+          { ID:45 Base:g X:281.0 Y:1393.0 }
+          { ID:46 Base:a X:269.0 Y:1360.0 }
+          { ID:47 Base:u X:253.0 Y:1347.0 }
+          { ID:48 Base:u X:253.0 Y:1329.0 }
+          { ID:49 Base:u X:253.0 Y:1311.0 }
+          { ID:50 Base:g X:253.0 Y:1293.0 }
+          { ID:51 Base:g X:264.0 Y:1267.0 }
+          { ID:52 Base:a X:253.0 Y:1239.0 }
+          { ID:53 Base:g X:253.0 Y:1221.0 }
+          { ID:54 Base:a X:253.0 Y:1203.0 }
+          { ID:55 Base:a X:264.0 Y:1177.0 }
+          { ID:56 Base:g X:253.0 Y:1149.0 }
+          { ID:57 Base:g X:253.0 Y:1131.0 }
+          { ID:58 Base:u X:253.0 Y:1113.0 }
+          { ID:59 Base:g X:253.0 Y:1095.0 }
+          { ID:60 Base:g X:253.0 Y:1077.0 }
+          { ID:61 Base:g X:255.0 Y:1006.0 }
+          { ID:62 Base:g X:255.0 Y:988.0 }
+          { ID:63 Base:a X:255.0 Y:970.0 }
+          { ID:64 Base:g X:255.0 Y:952.0 }
+          { ID:65 Base:a X:255.0 Y:934.0 }
+          { ID:66 Base:g X:255.0 Y:916.0 }
+          { ID:67 Base:a X:272.0 Y:909.0 }
+          { ID:68 Base:a X:299.0 Y:889.0 }
+          { ID:69 Base:g X:315.0 Y:858.0 }
+          { ID:70 Base:a X:315.0 Y:824.0 }
+          { ID:71 Base:u X:299.0 Y:794.0 }
+          { ID:72 Base:u X:272.0 Y:773.0 }
+          { ID:73 Base:g X:255.0 Y:768.0 }
+          { ID:74 Base:c X:255.0 Y:750.0 }
+          { ID:75 Base:g X:255.0 Y:732.0 }
+          { ID:76 Base:u X:255.0 Y:714.0 }
+          { ID:77 Base:c X:255.0 Y:696.0 }
+          { ID:78 Base:a X:255.0 Y:678.0 }
+          { ID:79 Base:a X:269.0 Y:660.0 }
+          { ID:80 Base:a X:268.0 Y:624.0 }
+          { ID:81 Base:c X:251.0 Y:606.0 }
+          { ID:82 Base:a X:251.0 Y:588.0 }
+          { ID:83 Base:g X:266.0 Y:575.0 }
+          { ID:84 Base:a X:278.0 Y:542.0 }
+          { ID:85 Base:c X:263.0 Y:511.0 }
+          { ID:86 Base:c X:246.0 Y:498.0 }
+          { ID:87 Base:u X:246.0 Y:480.0 }
+          { ID:88 Base:g X:246.0 Y:462.0 }
+          { ID:89 Base:a X:246.0 Y:444.0 }
+          { ID:90 Base:g X:246.0 Y:426.0 }
+          { ID:91 Base:a X:256.0 Y:399.0 }
+          { ID:92 Base:u X:243.0 Y:372.0 }
+          { ID:93 Base:c X:243.0 Y:354.0 }
+          { ID:94 Base:c X:240.0 Y:300.0 }
+          { ID:95 Base:g X:240.0 Y:282.0 }
+          { ID:96 Base:a X:255.0 Y:271.0 }
+          { ID:97 Base:u X:274.0 Y:243.0 }
+          { ID:98 Base:c X:272.0 Y:210.0 }
+          { ID:99 Base:c X:250.0 Y:184.0 }
+          { ID:100 Base:c X:234.0 Y:176.0 }
+          { ID:101 Base:a X:233.0 Y:158.0 }
+          { ID:102 Base:g X:232.0 Y:140.0 }
+          { ID:103 Base:c X:231.0 Y:122.0 }
+          { ID:104 Base:u X:230.0 Y:104.0 }
+          { ID:105 Base:c X:245.0 Y:91.0 }
+          { ID:106 Base:a X:257.0 Y:70.0 }
+          { ID:107 Base:g X:257.0 Y:47.0 }
+          { ID:108 Base:u X:247.0 Y:26.0 }
+          { ID:109 Base:c X:229.0 Y:12.0 }
+          { ID:110 Base:a X:206.0 Y:8.0 }
+          { ID:111 Base:u X:184.0 Y:16.0 }
+          { ID:112 Base:u X:168.0 Y:33.0 }
+          { ID:113 Base:u X:161.0 Y:55.0 }
+          { ID:114 Base:c X:166.0 Y:78.0 }
+          { ID:115 Base:c X:181.0 Y:96.0 }
+          { ID:116 Base:a X:199.0 Y:106.0 }
+          { ID:117 Base:g X:200.0 Y:124.0 }
+          { ID:118 Base:c X:201.0 Y:142.0 }
+          { ID:119 Base:u X:202.0 Y:160.0 }
+          { ID:120 Base:g X:203.0 Y:178.0 }
+          { ID:121 Base:u X:209.0 Y:282.0 }
+          { ID:122 Base:g X:209.0 Y:300.0 }
+          { ID:123 Base:u X:199.0 Y:329.0 }
+          { ID:124 Base:g X:212.0 Y:355.0 }
+          { ID:125 Base:a X:212.0 Y:373.0 }
+          { ID:126 Base:c X:202.0 Y:401.0 }
+          { ID:127 Base:c X:215.0 Y:427.0 }
+          { ID:128 Base:u X:215.0 Y:445.0 }
+          { ID:129 Base:u X:215.0 Y:463.0 }
+          { ID:130 Base:g X:215.0 Y:481.0 }
+          { ID:131 Base:g X:215.0 Y:499.0 }
+          { ID:132 Base:c X:200.0 Y:513.0 }
+          { ID:133 Base:a X:188.0 Y:546.0 }
+          { ID:134 Base:a X:203.0 Y:577.0 }
+          { ID:135 Base:u X:220.0 Y:589.0 }
+          { ID:136 Base:g X:220.0 Y:607.0 }
+          { ID:137 Base:g X:206.0 Y:626.0 }
+          { ID:138 Base:a X:208.0 Y:663.0 }
+          { ID:139 Base:u X:224.0 Y:679.0 }
+          { ID:140 Base:g X:224.0 Y:697.0 }
+          { ID:141 Base:g X:224.0 Y:715.0 }
+          { ID:142 Base:c X:224.0 Y:733.0 }
+          { ID:143 Base:g X:224.0 Y:751.0 }
+          { ID:144 Base:c X:224.0 Y:769.0 }
+          { ID:145 Base:c X:224.0 Y:915.0 }
+          { ID:146 Base:u X:224.0 Y:933.0 }
+          { ID:147 Base:c X:224.0 Y:951.0 }
+          { ID:148 Base:u X:224.0 Y:969.0 }
+          { ID:149 Base:c X:224.0 Y:987.0 }
+          { ID:150 Base:c X:224.0 Y:1005.0 }
+          { ID:151 Base:u X:208.0 Y:1022.0 }
+          { ID:152 Base:u X:207.0 Y:1059.0 }
+          { ID:153 Base:c X:222.0 Y:1077.0 }
+          { ID:154 Base:c X:222.0 Y:1095.0 }
+          { ID:155 Base:a X:222.0 Y:1113.0 }
+          { ID:156 Base:u X:222.0 Y:1131.0 }
+          { ID:157 Base:c X:222.0 Y:1149.0 }
+          { ID:158 Base:c X:211.0 Y:1176.0 }
+          { ID:159 Base:u X:222.0 Y:1203.0 }
+          { ID:160 Base:c X:222.0 Y:1221.0 }
+          { ID:161 Base:u X:222.0 Y:1239.0 }
+          { ID:162 Base:a X:211.0 Y:1266.0 }
+          { ID:163 Base:c X:222.0 Y:1293.0 }
+          { ID:164 Base:a X:222.0 Y:1311.0 }
+          { ID:165 Base:g X:222.0 Y:1329.0 }
+          { ID:166 Base:a X:222.0 Y:1347.0 }
+          { ID:167 Base:a X:198.0 Y:1368.0 }
+          { ID:168 Base:g X:197.0 Y:1413.0 }
+          { ID:169 Base:g X:220.0 Y:1437.0 }
+          { ID:170 Base:a X:220.0 Y:1455.0 }
+          { ID:171 Base:g X:220.0 Y:1473.0 }
+          { ID:172 Base:g X:208.0 Y:1499.0 }
+          { ID:173 Base:a X:219.0 Y:1527.0 }
+          { ID:174 Base:a X:213.0 Y:1635.0 }
+          { ID:175 Base:g X:212.0 Y:1653.0 }
+          { ID:176 Base:a X:211.0 Y:1671.0 }
+          { ID:177 Base:g X:210.0 Y:1689.0 }
+          { ID:178 Base:g X:209.0 Y:1707.0 }
+          { ID:179 Base:u X:208.0 Y:1725.0 }
+          { ID:180 Base:a X:70.0 Y:1842.0 }
+          { ID:181 Base:a X:77.0 Y:1951.0 }
+          { ID:182 Base:g X:152.0 Y:2030.0 }
+          { ID:183 Base:c X:144.0 Y:2046.0 }
+          { ID:184 Base:a X:136.0 Y:2062.0 }
+          { ID:185 Base:a X:114.0 Y:2081.0 }
+          { ID:186 Base:g X:112.0 Y:2110.0 }
+          { ID:187 Base:a X:105.0 Y:2126.0 }
+          { ID:188 Base:a X:81.0 Y:2127.0 }
+          { ID:189 Base:c X:46.0 Y:2145.0 }
+          { ID:190 Base:a X:29.0 Y:2180.0 }
+          { ID:191 Base:a X:35.0 Y:2219.0 }
+          { ID:192 Base:a X:48.0 Y:2239.0 }
+          { ID:193 Base:u X:40.0 Y:2255.0 }
+          { ID:194 Base:u X:32.0 Y:2271.0 }
+          { ID:195 Base:c X:24.0 Y:2287.0 }
+          { ID:196 Base:a X:8.0 Y:2304.0 }
+          { ID:197 Base:a X:9.0 Y:2326.0 }
+          { ID:198 Base:g X:29.0 Y:2336.0 }
+          { ID:199 Base:a X:48.0 Y:2324.0 }
+          { ID:200 Base:g X:52.0 Y:2301.0 }
+          { ID:201 Base:g X:60.0 Y:2285.0 }
+          { ID:202 Base:g X:68.0 Y:2269.0 }
+          { ID:203 Base:u X:76.0 Y:2253.0 }
+          { ID:204 Base:g X:95.0 Y:2253.0 }
+          { ID:205 Base:c X:127.0 Y:2243.0 }
+          { ID:206 Base:a X:149.0 Y:2218.0 }
+          { ID:207 Base:a X:155.0 Y:2186.0 }
+          { ID:208 Base:a X:145.0 Y:2154.0 }
+          { ID:209 Base:u X:133.0 Y:2139.0 }
+          { ID:210 Base:c X:140.0 Y:2123.0 }
+          { ID:211 Base:u X:164.0 Y:2076.0 }
+          { ID:212 Base:g X:172.0 Y:2060.0 }
+          { ID:213 Base:c X:180.0 Y:2044.0 }
+        ]
+      }
+    ]
+    Pairs:[
+      { Pair:"1:24" Type:BP }
+      { Pair:"2:23" Type:BP }
+      { Pair:"3:22" Type:BP }
+      { Pair:"5:19" Type:BP }
+      { Pair:"6:18" Type:BP }
+      { Pair:"7:17" Type:BP }
+      { Pair:"8:16" Type:BP }
+      { Pair:"29:179" Type:BP }
+      { Pair:"30:178" Type:BP }
+      { Pair:"31:177" Type:BP }
+      { Pair:"32:176" Type:BP }
+      { Pair:"33:175" Type:BP }
+      { Pair:"34:174" Type:BP }
+      { Pair:"39:173" Type:BP }
+      { Pair:"41:171" Type:BP }
+      { Pair:"42:170" Type:BP }
+      { Pair:"43:169" Type:BP }
+      { Pair:"47:166" Type:BP }
+      { Pair:"48:165" Type:BP }
+      { Pair:"49:164" Type:BP }
+      { Pair:"50:163" Type:BP }
+      { Pair:"52:161" Type:BP }
+      { Pair:"53:160" Type:BP }
+      { Pair:"54:159" Type:BP }
+      { Pair:"56:157" Type:BP }
+      { Pair:"57:156" Type:BP }
+      { Pair:"58:155" Type:BP }
+      { Pair:"59:154" Type:BP }
+      { Pair:"60:153" Type:BP }
+      { Pair:"61:150" Type:BP }
+      { Pair:"62:149" Type:BP }
+      { Pair:"63:148" Type:BP }
+      { Pair:"64:147" Type:BP }
+      { Pair:"65:146" Type:BP }
+      { Pair:"66:145" Type:BP }
+      { Pair:"73:144" Type:BP }
+      { Pair:"74:143" Type:BP }
+      { Pair:"75:142" Type:BP }
+      { Pair:"76:141" Type:BP }
+      { Pair:"77:140" Type:BP }
+      { Pair:"78:139" Type:BP }
+      { Pair:"81:136" Type:BP }
+      { Pair:"82:135" Type:BP }
+      { Pair:"86:131" Type:BP }
+      { Pair:"87:130" Type:BP }
+      { Pair:"88:129" Type:BP }
+      { Pair:"89:128" Type:BP }
+      { Pair:"90:127" Type:BP }
+      { Pair:"92:125" Type:BP }
+      { Pair:"93:124" Type:BP }
+      { Pair:"94:122" Type:BP }
+      { Pair:"95:121" Type:BP }
+      { Pair:"100:120" Type:BP }
+      { Pair:"101:119" Type:BP }
+      { Pair:"102:118" Type:BP }
+      { Pair:"103:117" Type:BP }
+      { Pair:"104:116" Type:BP }
+      { Pair:"182:213" Type:BP }
+      { Pair:"183:212" Type:BP }
+      { Pair:"184:211" Type:BP }
+      { Pair:"186:210" Type:BP }
+      { Pair:"187:209" Type:BP }
+      { Pair:"192:203" Type:BP }
+      { Pair:"193:202" Type:BP }
+      { Pair:"194:201" Type:BP }
+      { Pair:"195:200" Type:BP }
+    ]
+  }
+]
