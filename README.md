@@ -66,5 +66,5 @@ In case studies, machine learning-based classifiers like Decision Trees (DT), Ra
 
 ## Comparison Analysis
 
-Negative RNA sources in the literature are used to compare with negative data from NeRNA.
+Negative RNA sources in the literature are used to compare with negative data from NeRNA. (Scores are from Random Forest learner.)
 <img src="https://github.com/Mehmeteminorhan/NegativeRNA/blob/main/Figures/Comparison_Analysis.jpg" width="90%"></img> <img>
