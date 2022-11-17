@@ -6,7 +6,7 @@ Supervised machine learning-based non-coding RNA (ncRNA) analysis methods have b
 
 
 ## **Requirements**
-You can download NeRNA workflow in [**Knime Workflow**](https://github.com/Mehmeteminorhan/NegativeRNA/tree/main/Knime%20Workflow) folder or directly [**here**](https://github.com/Mehmeteminorhan/NegativeRNA/raw/main/Knime%20Workflow/NeRNA%20Published%20Version.knwf).
+You can download NeRNA workflow in [**Knime Workflow**](https://github.com/Mehmeteminorhan/NegativeRNA/tree/main/Knime%20Workflow) folder or directly [**here**](https://github.com/Mehmeteminorhan/NegativeRNA/raw/main/Knime%20Workflow/NeRNA%20Framework.knwf).
 
 Firstly, the NeRNA framework is developed on the [**KNIME Analytics platform**](https://www.knime.com/); therefore KNIME should be installed. A second required tool is **RNAfold** application from Vienna RNA package (Please follow the instruction, for the installation RNAfold on their [**website**](https://www.tbi.univie.ac.at/RNA/).). R software enviroment, [**seqinR**](https://seqinr.r-forge.r-project.org/) and [**stringR**](https://github.com/tidyverse/stringr) packages are required for R scripts.
 
