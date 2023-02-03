@@ -1,0 +1,270 @@
+[
+  { Version:"1.0" Title:hsa-mir-3648-1 }
+  {
+    Title:hsa-mir-3648-1
+    Mode:Standard
+    Flip:false
+    Strands:[
+      {
+        Strand:[
+          { ID:1 Base:c X:72.5 Y:1987.5 }
+          { ID:2 Base:g X:90.5 Y:1987.5 }
+          { ID:3 Base:c X:108.5 Y:1987.5 }
+          { ID:4 Base:g X:126.5 Y:1987.5 }
+          { ID:5 Base:a X:144.5 Y:1987.5 }
+          { ID:6 Base:c X:175.5 Y:2026.5 }
+          { ID:7 Base:u X:238.5 Y:2028.5 }
+          { ID:8 Base:g X:272.5 Y:1991.5 }
+          { ID:9 Base:c X:290.5 Y:1991.5 }
+          { ID:10 Base:g X:308.5 Y:1991.5 }
+          { ID:11 Base:g X:326.5 Y:1991.5 }
+          { ID:12 Base:c X:344.5 Y:1991.5 }
+          { ID:13 Base:g X:397.5 Y:1995.5 }
+          { ID:14 Base:g X:415.5 Y:1996.5 }
+          { ID:15 Base:c X:433.5 Y:1997.5 }
+          { ID:16 Base:g X:451.5 Y:1998.5 }
+          { ID:17 Base:g X:469.5 Y:1999.5 }
+          { ID:18 Base:u X:495.5 Y:2012.5 }
+          { ID:19 Base:g X:523.5 Y:2002.5 }
+          { ID:20 Base:g X:541.5 Y:2002.5 }
+          { ID:21 Base:u X:567.5 Y:2014.5 }
+          { ID:22 Base:g X:595.5 Y:2004.5 }
+          { ID:23 Base:g X:613.5 Y:2004.5 }
+          { ID:24 Base:g X:631.5 Y:2004.5 }
+          { ID:25 Base:g X:649.5 Y:2004.5 }
+          { ID:26 Base:g X:667.5 Y:2004.5 }
+          { ID:27 Base:g X:685.5 Y:2004.5 }
+          { ID:28 Base:a X:711.5 Y:2016.5 }
+          { ID:29 Base:g X:739.5 Y:2006.5 }
+          { ID:30 Base:c X:757.5 Y:2006.5 }
+          { ID:31 Base:c X:775.5 Y:2006.5 }
+          { ID:32 Base:g X:793.5 Y:2006.5 }
+          { ID:33 Base:c X:811.5 Y:2006.5 }
+          { ID:34 Base:g X:829.5 Y:2006.5 }
+          { ID:35 Base:g X:847.5 Y:2006.5 }
+          { ID:36 Base:g X:865.5 Y:2006.5 }
+          { ID:37 Base:g X:883.5 Y:2006.5 }
+          { ID:38 Base:a X:901.5 Y:2006.5 }
+          { ID:39 Base:u X:919.5 Y:2006.5 }
+          { ID:40 Base:c X:937.5 Y:2006.5 }
+          { ID:41 Base:g X:963.5 Y:2018.5 }
+          { ID:42 Base:c X:991.5 Y:2008.5 }
+          { ID:43 Base:c X:1044.5 Y:2011.5 }
+          { ID:44 Base:g X:1062.5 Y:2012.5 }
+          { ID:45 Base:a X:1080.5 Y:2013.5 }
+          { ID:46 Base:g X:1098.5 Y:2014.5 }
+          { ID:47 Base:g X:1124.5 Y:2027.5 }
+          { ID:48 Base:g X:1152.5 Y:2017.5 }
+          { ID:49 Base:c X:1170.5 Y:2018.5 }
+          { ID:50 Base:c X:1196.5 Y:2031.5 }
+          { ID:51 Base:g X:1224.5 Y:2021.5 }
+          { ID:52 Base:g X:1242.5 Y:2021.5 }
+          { ID:53 Base:u X:1260.5 Y:2021.5 }
+          { ID:54 Base:c X:1278.5 Y:2021.5 }
+          { ID:55 Base:g X:1296.5 Y:2021.5 }
+          { ID:56 Base:g X:1314.5 Y:2021.5 }
+          { ID:57 Base:c X:1332.5 Y:2021.5 }
+          { ID:58 Base:c X:1350.5 Y:2021.5 }
+          { ID:59 Base:g X:1368.5 Y:2021.5 }
+          { ID:60 Base:c X:1386.5 Y:2021.5 }
+          { ID:61 Base:c X:1420.5 Y:2043.5 }
+          { ID:62 Base:c X:1457.5 Y:2025.5 }
+          { ID:63 Base:c X:1475.5 Y:2026.5 }
+          { ID:64 Base:g X:1493.5 Y:2027.5 }
+          { ID:65 Base:g X:1511.5 Y:2028.5 }
+          { ID:66 Base:g X:1529.5 Y:2029.5 }
+          { ID:67 Base:u X:1582.5 Y:2033.5 }
+          { ID:68 Base:g X:1600.5 Y:2034.5 }
+          { ID:69 Base:c X:1618.5 Y:2035.5 }
+          { ID:70 Base:c X:1671.5 Y:2040.5 }
+          { ID:71 Base:g X:1689.5 Y:2041.5 }
+          { ID:72 Base:c X:1707.5 Y:2042.5 }
+          { ID:73 Base:g X:1725.5 Y:2043.5 }
+          { ID:74 Base:c X:1743.5 Y:2044.5 }
+          { ID:75 Base:g X:1761.5 Y:2045.5 }
+          { ID:76 Base:g X:1779.5 Y:2046.5 }
+          { ID:77 Base:u X:1804.5 Y:2060.5 }
+          { ID:78 Base:g X:1833.5 Y:2051.5 }
+          { ID:79 Base:c X:1851.5 Y:2052.5 }
+          { ID:80 Base:c X:1869.5 Y:2053.5 }
+          { ID:81 Base:g X:1940.5 Y:2061.5 }
+          { ID:82 Base:c X:1957.5 Y:2063.5 }
+          { ID:83 Base:c X:1974.5 Y:2065.5 }
+          { ID:84 Base:g X:1991.5 Y:2067.5 }
+          { ID:85 Base:g X:2012.5 Y:2076.5 }
+          { ID:86 Base:c X:2033.5 Y:2068.5 }
+          { ID:87 Base:g X:2036.5 Y:2045.5 }
+          { ID:88 Base:g X:2018.5 Y:2032.5 }
+          { ID:89 Base:c X:1995.5 Y:2036.5 }
+          { ID:90 Base:g X:1978.5 Y:2034.5 }
+          { ID:91 Base:g X:1961.5 Y:2032.5 }
+          { ID:92 Base:u X:1944.5 Y:2030.5 }
+          { ID:93 Base:g X:1927.5 Y:2012.5 }
+          { ID:94 Base:a X:1892.5 Y:2008.5 }
+          { ID:95 Base:g X:1872.5 Y:2022.5 }
+          { ID:96 Base:g X:1854.5 Y:2021.5 }
+          { ID:97 Base:c X:1836.5 Y:2020.5 }
+          { ID:98 Base:c X:1810.5 Y:2006.5 }
+          { ID:99 Base:c X:1782.5 Y:2015.5 }
+          { ID:100 Base:c X:1764.5 Y:2014.5 }
+          { ID:101 Base:g X:1746.5 Y:2013.5 }
+          { ID:102 Base:c X:1728.5 Y:2012.5 }
+          { ID:103 Base:g X:1710.5 Y:2011.5 }
+          { ID:104 Base:c X:1692.5 Y:2010.5 }
+          { ID:105 Base:g X:1674.5 Y:2009.5 }
+          { ID:106 Base:u X:1648.5 Y:1995.5 }
+          { ID:107 Base:g X:1620.5 Y:2004.5 }
+          { ID:108 Base:u X:1602.5 Y:2003.5 }
+          { ID:109 Base:g X:1584.5 Y:2002.5 }
+          { ID:110 Base:u X:1559.5 Y:1989.5 }
+          { ID:111 Base:c X:1531.5 Y:1998.5 }
+          { ID:112 Base:c X:1513.5 Y:1997.5 }
+          { ID:113 Base:c X:1495.5 Y:1996.5 }
+          { ID:114 Base:g X:1477.5 Y:1995.5 }
+          { ID:115 Base:g X:1459.5 Y:1994.5 }
+          { ID:116 Base:c X:1442.5 Y:1978.5 }
+          { ID:117 Base:u X:1406.5 Y:1975.5 }
+          { ID:118 Base:g X:1387.5 Y:1990.5 }
+          { ID:119 Base:c X:1369.5 Y:1990.5 }
+          { ID:120 Base:g X:1351.5 Y:1990.5 }
+          { ID:121 Base:g X:1333.5 Y:1990.5 }
+          { ID:122 Base:u X:1315.5 Y:1990.5 }
+          { ID:123 Base:c X:1297.5 Y:1990.5 }
+          { ID:124 Base:g X:1279.5 Y:1990.5 }
+          { ID:125 Base:g X:1261.5 Y:1990.5 }
+          { ID:126 Base:c X:1243.5 Y:1990.5 }
+          { ID:127 Base:c X:1225.5 Y:1990.5 }
+          { ID:128 Base:g X:1172.5 Y:1987.5 }
+          { ID:129 Base:c X:1154.5 Y:1986.5 }
+          { ID:130 Base:g X:1128.5 Y:1974.5 }
+          { ID:131 Base:c X:1100.5 Y:1983.5 }
+          { ID:132 Base:u X:1082.5 Y:1982.5 }
+          { ID:133 Base:c X:1064.5 Y:1981.5 }
+          { ID:134 Base:g X:1046.5 Y:1980.5 }
+          { ID:135 Base:a X:1020.5 Y:1967.5 }
+          { ID:136 Base:g X:992.5 Y:1977.5 }
+          { ID:137 Base:g X:966.5 Y:1965.5 }
+          { ID:138 Base:g X:938.5 Y:1975.5 }
+          { ID:139 Base:g X:920.5 Y:1975.5 }
+          { ID:140 Base:u X:902.5 Y:1975.5 }
+          { ID:141 Base:c X:884.5 Y:1975.5 }
+          { ID:142 Base:c X:866.5 Y:1975.5 }
+          { ID:143 Base:c X:848.5 Y:1975.5 }
+          { ID:144 Base:c X:830.5 Y:1975.5 }
+          { ID:145 Base:g X:812.5 Y:1975.5 }
+          { ID:146 Base:u X:794.5 Y:1975.5 }
+          { ID:147 Base:g X:776.5 Y:1975.5 }
+          { ID:148 Base:g X:758.5 Y:1975.5 }
+          { ID:149 Base:c X:740.5 Y:1975.5 }
+          { ID:150 Base:g X:714.5 Y:1963.5 }
+          { ID:151 Base:u X:686.5 Y:1973.5 }
+          { ID:152 Base:c X:668.5 Y:1973.5 }
+          { ID:153 Base:c X:650.5 Y:1973.5 }
+          { ID:154 Base:c X:632.5 Y:1973.5 }
+          { ID:155 Base:c X:614.5 Y:1973.5 }
+          { ID:156 Base:u X:596.5 Y:1973.5 }
+          { ID:157 Base:u X:570.5 Y:1961.5 }
+          { ID:158 Base:c X:542.5 Y:1971.5 }
+          { ID:159 Base:c X:524.5 Y:1971.5 }
+          { ID:160 Base:c X:471.5 Y:1968.5 }
+          { ID:161 Base:c X:453.5 Y:1967.5 }
+          { ID:162 Base:g X:435.5 Y:1966.5 }
+          { ID:163 Base:c X:417.5 Y:1965.5 }
+          { ID:164 Base:c X:399.5 Y:1964.5 }
+          { ID:165 Base:g X:373.5 Y:1950.5 }
+          { ID:166 Base:g X:345.5 Y:1960.5 }
+          { ID:167 Base:c X:327.5 Y:1960.5 }
+          { ID:168 Base:c X:309.5 Y:1960.5 }
+          { ID:169 Base:g X:291.5 Y:1960.5 }
+          { ID:170 Base:c X:273.5 Y:1960.5 }
+          { ID:171 Base:c X:265.5 Y:1942.5 }
+          { ID:172 Base:u X:242.5 Y:1917.5 }
+          { ID:173 Base:u X:210.5 Y:1907.5 }
+          { ID:174 Base:u X:177.5 Y:1915.5 }
+          { ID:175 Base:c X:152.5 Y:1939.5 }
+          { ID:176 Base:u X:144.5 Y:1956.5 }
+          { ID:177 Base:c X:126.5 Y:1956.5 }
+          { ID:178 Base:g X:108.5 Y:1956.5 }
+          { ID:179 Base:c X:90.5 Y:1956.5 }
+          { ID:180 Base:g X:72.5 Y:1956.5 }
+        ]
+      }
+    ]
+    Pairs:[
+      { Pair:"1:180" Type:BP }
+      { Pair:"2:179" Type:BP }
+      { Pair:"3:178" Type:BP }
+      { Pair:"4:177" Type:BP }
+      { Pair:"5:176" Type:BP }
+      { Pair:"8:170" Type:BP }
+      { Pair:"9:169" Type:BP }
+      { Pair:"10:168" Type:BP }
+      { Pair:"11:167" Type:BP }
+      { Pair:"12:166" Type:BP }
+      { Pair:"13:164" Type:BP }
+      { Pair:"14:163" Type:BP }
+      { Pair:"15:162" Type:BP }
+      { Pair:"16:161" Type:BP }
+      { Pair:"17:160" Type:BP }
+      { Pair:"19:159" Type:BP }
+      { Pair:"20:158" Type:BP }
+      { Pair:"22:156" Type:BP }
+      { Pair:"23:155" Type:BP }
+      { Pair:"24:154" Type:BP }
+      { Pair:"25:153" Type:BP }
+      { Pair:"26:152" Type:BP }
+      { Pair:"27:151" Type:BP }
+      { Pair:"29:149" Type:BP }
+      { Pair:"30:148" Type:BP }
+      { Pair:"31:147" Type:BP }
+      { Pair:"32:146" Type:BP }
+      { Pair:"33:145" Type:BP }
+      { Pair:"34:144" Type:BP }
+      { Pair:"35:143" Type:BP }
+      { Pair:"36:142" Type:BP }
+      { Pair:"37:141" Type:BP }
+      { Pair:"38:140" Type:BP }
+      { Pair:"39:139" Type:BP }
+      { Pair:"40:138" Type:BP }
+      { Pair:"42:136" Type:BP }
+      { Pair:"43:134" Type:BP }
+      { Pair:"44:133" Type:BP }
+      { Pair:"45:132" Type:BP }
+      { Pair:"46:131" Type:BP }
+      { Pair:"48:129" Type:BP }
+      { Pair:"49:128" Type:BP }
+      { Pair:"51:127" Type:BP }
+      { Pair:"52:126" Type:BP }
+      { Pair:"53:125" Type:BP }
+      { Pair:"54:124" Type:BP }
+      { Pair:"55:123" Type:BP }
+      { Pair:"56:122" Type:BP }
+      { Pair:"57:121" Type:BP }
+      { Pair:"58:120" Type:BP }
+      { Pair:"59:119" Type:BP }
+      { Pair:"60:118" Type:BP }
+      { Pair:"62:115" Type:BP }
+      { Pair:"63:114" Type:BP }
+      { Pair:"64:113" Type:BP }
+      { Pair:"65:112" Type:BP }
+      { Pair:"66:111" Type:BP }
+      { Pair:"67:109" Type:BP }
+      { Pair:"68:108" Type:BP }
+      { Pair:"69:107" Type:BP }
+      { Pair:"70:105" Type:BP }
+      { Pair:"71:104" Type:BP }
+      { Pair:"72:103" Type:BP }
+      { Pair:"73:102" Type:BP }
+      { Pair:"74:101" Type:BP }
+      { Pair:"75:100" Type:BP }
+      { Pair:"76:99" Type:BP }
+      { Pair:"78:97" Type:BP }
+      { Pair:"79:96" Type:BP }
+      { Pair:"80:95" Type:BP }
+      { Pair:"81:92" Type:BP }
+      { Pair:"82:91" Type:BP }
+      { Pair:"83:90" Type:BP }
+      { Pair:"84:89" Type:BP }
+    ]
+  }
+]

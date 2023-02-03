@@ -1,0 +1,7 @@
+tdbR00000596 -Dictyostelium discoideum - cytoplasmic
+tdbPDB000020 - Thermus thermophilus -cytoplasmic
+tdbPDB000016 - Aquifex aeolicus - cytoplasmic
+tdbR00000209 - Enterobacteria phage T4 - viral
+tdbPDB000010 - Homo sapiens - cytoplasmic
+
+
