@@ -1,4 +1,9 @@
 # NeRNA: a negative data generation framework for machine learning applications of non-coding RNAs
+
+## About
+If you use multigrate in your research, please consider citing;
+> Orhan, M. E., Demirci, Y. M., & Saçar Demirci, M. D. (2023). NeRNA: A negative data generation framework for machine learning applications of noncoding RNAs. Computers in biology and medicine, 159, 106861. https://doi.org/10.1016/j.compbiomed.2023.106861
+
 **NeRNA is a novel negative data generation framework that is developed on the KNIME analytics platform. This workflow employs non-coding RNA sequences to generate negative RNAs.**
 
 Supervised machine learning-based non-coding RNA (ncRNA) analysis methods have been developed to classify and identify novel sequences. During such analysis, the positive learning data sets usually have known examples of ncRNAs published in databases. On the contrary, neither databases listing the confirmed negative sequences for a specific ncRNA class nor standardized methodologies developed to generate high-quality negative examples. To achieve this challenge, we developed a novel negative data generation method, NeRNA (negative RNA).
